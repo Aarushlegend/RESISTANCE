@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  display: none;
+  height: 0;
+  opacity: 0;
+}
+
+.schoollogo {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 5em;
+}
